@@ -1,1 +1,1 @@
-web: gunicorn social_registration.wsgi
+web: gunicorn social_registraton.wsgi
